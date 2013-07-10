@@ -3,6 +3,7 @@
 
     <string name="app_name">TicTacToe</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome to Tic Tac Toe!\nMake your selection below</string>
+    <string name="username">Username: </string>
 
 </resources>
